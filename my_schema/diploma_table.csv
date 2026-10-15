@@ -1,0 +1,16 @@
+tx_id,tx_date,amount,user_id,user_email,category_id,category_name
+1,2026-10-01,150.00,101,alex@mail.com,1,Food
+2,2026-10-01,45.50,101,alex@mail.com,2,Transport
+3,2026-10-02,300.00,102,maria@mail.com,1,Food
+4,2026-10-03,1200.00,101,alex@mail.com,3,Utilities
+5,2026-10-03,22.00,103,dmytro@mail.com,2,Transport
+6,2026-10-04,180.00,102,maria@mail.com,1,Food
+7,2026-10-04,60.00,104,olena@mail.com,4,Entertainment
+8,2026-10-05,95.00,101,alex@mail.com,1,Food
+9,2026-10-05,500.00,103,dmytro@mail.com,5,Health
+10,2026-10-06,35.00,102,maria@mail.com,2,Transport
+11,2026-10-06,210.00,104,olena@mail.com,1,Food
+12,2026-10-07,800.00,105,ivan@mail.com,3,Utilities
+13,2026-10-08,40.00,105,ivan@mail.com,2,Transport
+14,2026-10-09,15.00,101,alex@mail.com,2,Transport
+15,2026-10-10,130.00,103,dmytro@mail.com,1,Food
